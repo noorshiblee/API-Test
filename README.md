@@ -1,5 +1,6 @@
 @Noor Mohammad Shiblee
 
+endpoint: http://md5.jsontest.com/
 This is a java Maven project. Rest-Assuered library is used to test api's and json-simple is used to parse data from json object.
 
 #) How To Run:
